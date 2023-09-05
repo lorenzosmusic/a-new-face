@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
   <UndoTransaction tv-sec="1693892095" tv-usec="395574" name="replace tempo mark">
-    <MementoCommand obj-id="102" type-name="ARDOUR::TempoMap">
+    <MementoCommand obj-id="62" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="120" note-type="4" clamped="0" end-beats-per-minute="120" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
@@ -11,21 +11,9 @@
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
       </TempoMap>
     </MementoCommand>
-    <MementoCommand obj-id="46" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1693892140" tv-usec="22320" name="replace meter mark">
-    <MementoCommand obj-id="102" type-name="ARDOUR::TempoMap">
+    <MementoCommand obj-id="62" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="60" note-type="4" clamped="0" end-beats-per-minute="60" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
@@ -34,22 +22,10 @@
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="60" note-type="4" clamped="0" end-beats-per-minute="60" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="3"/>
       </TempoMap>
-    </MementoCommand>
-    <MementoCommand obj-id="46" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1693892166" tv-usec="76175" name="replace tempo mark">
-    <MementoCommand obj-id="102" type-name="ARDOUR::TempoMap">
+    <MementoCommand obj-id="62" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="60" note-type="4" clamped="0" end-beats-per-minute="60" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="3"/>
@@ -58,22 +34,10 @@
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="166" note-type="4" clamped="0" end-beats-per-minute="166" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="3"/>
       </TempoMap>
-    </MementoCommand>
-    <MementoCommand obj-id="46" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1693892297" tv-usec="537239" name="replace meter mark">
-    <MementoCommand obj-id="102" type-name="ARDOUR::TempoMap">
+    <MementoCommand obj-id="62" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="166" note-type="4" clamped="0" end-beats-per-minute="166" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="3"/>
@@ -83,21 +47,9 @@
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
       </TempoMap>
     </MementoCommand>
-    <MementoCommand obj-id="46" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1693892304" tv-usec="358235" name="replace tempo mark">
-    <MementoCommand obj-id="102" type-name="ARDOUR::TempoMap">
+    <MementoCommand obj-id="62" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="166" note-type="4" clamped="0" end-beats-per-minute="166" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
@@ -107,21 +59,9 @@
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
       </TempoMap>
     </MementoCommand>
-    <MementoCommand obj-id="46" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1693892312" tv-usec="44169" name="replace tempo mark">
-    <MementoCommand obj-id="102" type-name="ARDOUR::TempoMap">
+    <MementoCommand obj-id="62" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="60" note-type="4" clamped="0" end-beats-per-minute="60" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
@@ -130,22 +70,10 @@
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="66" note-type="4" clamped="0" end-beats-per-minute="66" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
       </TempoMap>
-    </MementoCommand>
-    <MementoCommand obj-id="46" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1693892351" tv-usec="21929" name="replace tempo mark">
-    <MementoCommand obj-id="102" type-name="ARDOUR::TempoMap">
+    <MementoCommand obj-id="62" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="66" note-type="4" clamped="0" end-beats-per-minute="66" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
@@ -154,18 +82,6 @@
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="60" note-type="4" clamped="0" end-beats-per-minute="60" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
       </TempoMap>
-    </MementoCommand>
-    <MementoCommand obj-id="46" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="5948" left-frame="0" y-origin="0">
-        <Selection>
-          <StripableView id="167"/>
-        </Selection>
-      </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1693892694" tv-usec="826401" name="capture">
@@ -176,5 +92,27 @@
         </Regions>
       </Changes>
     </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1693893447" tv-usec="391481" name="move marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="284" name="session" start="0" end="7565807" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1693892694"/>
+      </Locations>
+      <Locations>
+        <Location id="284" name="session" start="312270" end="7565807" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1693892694"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="45" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1487" left-frame="0" y-origin="0">
+        <Selection>
+          <Marker id="284" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1487" left-frame="0" y-origin="0">
+        <Selection>
+          <Marker id="284" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
   </UndoTransaction>
 </UndoHistory>

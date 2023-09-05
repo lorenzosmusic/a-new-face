@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="a-new-face-230905" sample-rate="44100" end-is-free="1" session-range-is-free="1" id-counter="360" name-counter="1" event-counter="38" vca-counter="1">
+<Session version="6000" name="a-new-face-230905" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="655" name-counter="1" event-counter="44" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -70,11 +70,9 @@
   <Regions>
     <Region name="Reed organ-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="7565808" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="258" type="audio" first-edit="nothing" source-0="214" master-source-0="214" channels="1"/>
   </Regions>
-  <Selection>
-    <StripableAutomationControl stripable="167" control="0" order="0"/>
-  </Selection>
+  <Selection/>
   <Locations>
-    <Location id="284" name="session" start="0" end="7565807" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1693892694"/>
+    <Location id="284" name="session" start="312270" end="7565807" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1693892694"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
@@ -144,7 +142,7 @@
       <Processor id="97" name="meter-Master" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Slavable/>
     </Route>
-    <Route version="6000" id="167" name="Reed organ" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="212" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="167" name="Reed organ" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="212" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="1" flags="AudioTrack,OrderSet" color="2188832255"/>
       <Controllable name="solo" id="175" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="181" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -189,7 +187,6 @@
           <AutomationList automation-id="pan-lfe" id="193" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="201" name="meter-Reed organ" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="205" name="recorder:Reed organ" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
       <Processor id="204" name="player:Reed organ" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="198" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
@@ -263,10 +260,10 @@
           <Port symbol="gain" value="0"/>
           <Port symbol="peakreset" value="1"/>
           <Port symbol="HighPass" value="1"/>
-          <Port symbol="HPfreq" value="132.0458984375"/>
+          <Port symbol="HPfreq" value="321.87515258789062"/>
           <Port symbol="HPQ" value="0.69999998807907104"/>
           <Port symbol="LowPass" value="1"/>
-          <Port symbol="LPfreq" value="2700.253662109375"/>
+          <Port symbol="LPfreq" value="3029.25"/>
           <Port symbol="LPQ" value="1"/>
           <Port symbol="LSsec" value="1"/>
           <Port symbol="LSfreq" value="80"/>
@@ -285,9 +282,9 @@
           <Port symbol="q3" value="0.60000002384185791"/>
           <Port symbol="gain3" value="-6"/>
           <Port symbol="sec4" value="1"/>
-          <Port symbol="freq4" value="2477.17333984375"/>
+          <Port symbol="freq4" value="2598.728515625"/>
           <Port symbol="q4" value="0.60000002384185791"/>
-          <Port symbol="gain4" value="-2.8000001907348633"/>
+          <Port symbol="gain4" value="-5.8000001907348633"/>
           <Port symbol="HSsec" value="1"/>
           <Port symbol="HSfreq" value="7999.99951171875"/>
           <Port symbol="HSq" value="1"/>
@@ -297,10 +294,10 @@
         <Controllable name="Gain" id="294" flags="" value="0" parameter="3" symbol="gain"/>
         <Controllable name="Reset Peak Hold" id="296" flags="Toggle" value="1" parameter="5" symbol="peakreset"/>
         <Controllable name="Highpass" id="298" flags="Toggle" value="1" parameter="6" symbol="HighPass"/>
-        <Controllable name="Highpass Frequency" id="300" flags="" value="132.0458984375" parameter="7" symbol="HPfreq"/>
+        <Controllable name="Highpass Frequency" id="300" flags="" value="321.87515258789062" parameter="7" symbol="HPfreq"/>
         <Controllable name="HighPass Resonance" id="302" flags="" value="0.69999998807907104" parameter="8" symbol="HPQ"/>
         <Controllable name="Lowpass" id="304" flags="Toggle" value="1" parameter="9" symbol="LowPass"/>
-        <Controllable name="Lowpass Frequency" id="306" flags="" value="2700.253662109375" parameter="10" symbol="LPfreq"/>
+        <Controllable name="Lowpass Frequency" id="306" flags="" value="3029.25" parameter="10" symbol="LPfreq"/>
         <Controllable name="LowPass Resonance" id="308" flags="" value="1" parameter="11" symbol="LPQ"/>
         <Controllable name="Lowshelf" id="310" flags="Toggle" value="1" parameter="12" symbol="LSsec"/>
         <Controllable name="Lowshelf Frequency" id="312" flags="" value="80" parameter="13" symbol="LSfreq"/>
@@ -319,21 +316,22 @@
         <Controllable name="Bandwidth 3" id="338" flags="" value="0.60000002384185791" parameter="26" symbol="q3"/>
         <Controllable name="Gain 3" id="340" flags="" value="-6" parameter="27" symbol="gain3"/>
         <Controllable name="Section 4" id="342" flags="Toggle" value="1" parameter="28" symbol="sec4"/>
-        <Controllable name="Frequency 4" id="344" flags="" value="2477.17333984375" parameter="29" symbol="freq4"/>
+        <Controllable name="Frequency 4" id="344" flags="" value="2598.728515625" parameter="29" symbol="freq4"/>
         <Controllable name="Bandwidth 4" id="346" flags="" value="0.60000002384185791" parameter="30" symbol="q4"/>
-        <Controllable name="Gain 4" id="348" flags="" value="-2.8000001907348633" parameter="31" symbol="gain4"/>
+        <Controllable name="Gain 4" id="348" flags="" value="-5.8000001907348633" parameter="31" symbol="gain4"/>
         <Controllable name="Highshelf" id="350" flags="Toggle" value="1" parameter="32" symbol="HSsec"/>
         <Controllable name="Highshelf Frequency" id="352" flags="" value="7999.99951171875" parameter="33" symbol="HSfreq"/>
         <Controllable name="Highshelf Bandwidth" id="354" flags="" value="1" parameter="34" symbol="HSq"/>
         <Controllable name="Highshelf Gain" id="356" flags="" value="0" parameter="35" symbol="HSgain"/>
       </Processor>
+      <Processor id="201" name="meter-Reed organ" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="202" name="Reed organ" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Reed organ" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
       <Controllable name="monitor" id="211" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="209" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="207" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="207" flags="Toggle,RealTime" value="0"/>
     </Route>
   </Routes>
   <Playlists>
@@ -439,7 +437,7 @@
       <Window name="transport-masters" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-64" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-167" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-167-290" visible="0" x-off="373" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="P-167-290" visible="0" x-off="740" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
       <Window name="PM-167-290" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 64" height="66" visible="1"/>
