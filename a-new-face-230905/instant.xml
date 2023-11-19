@@ -9,14 +9,6 @@
       <Release/>
     </Buttons>
     <Selection>
-      <StripableView id="4718"/>
-      <StripableView id="4769"/>
-      <StripableView id="4820"/>
-      <StripableView id="4871"/>
-      <StripableView id="4922"/>
-      <StripableView id="4973"/>
-      <StripableView id="5024"/>
-      <StripableView id="4667"/>
       <MIDINotes region-id="2795">
         <note note-id="1360"/>
       </MIDINotes>
