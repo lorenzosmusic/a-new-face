@@ -492,8 +492,8 @@
     <StatefulDiffCommand obj-id="168722" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="170017"/>
           <Add id="170008"/>
+          <Add id="170017"/>
           <Remove id="169184"/>
         </Regions>
       </Changes>
@@ -527,22 +527,6 @@
         <length from="2552603" to="2530553"/>
         <position from="4172963" to="4195013"/>
         <beat from="94.625" to="95.125011337868472"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="170044" interpolation-style="Exponential" state="Off">
-              <events>0 1.0000001000000001
-2552603 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="170045" interpolation-style="Exponential" state="Off">
-              <events>0 1.0000001991361791
-2530553 1
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="45" type-name="SelectionMemento">
