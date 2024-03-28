@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="a-new-face-230905" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="317973" name-counter="1" event-counter="200807" vca-counter="1">
+<Session version="6000" name="a-new-face-230905" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="336130" name-counter="1" event-counter="202033" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 6.9.0~ds0-1build1"/>
-  <EngineHints backend="JACK" input-device="UMC204HD 192k" output-device="UMC204HD 192k"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
     <Port name="MMC in" direction="input"/>
@@ -2667,7 +2666,7 @@
     <CompoundAssociation copy="299662" original="292173"/>
   </CompoundAssociations>
   <Selection>
-    <StripableAutomationControl stripable="289800" control="0" order="0"/>
+    <StripableAutomationControl stripable="289800" control="0" order="5"/>
   </Selection>
   <Locations>
     <Location id="284" name="session" start="30359175" end="37461113" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1693892694"/>
@@ -9623,8 +9622,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="273192" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="273192" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="273194" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="273189" interpolation-style="Discrete" state="Off"/>
@@ -9637,7 +9636,7 @@
         <AutomationList automation-id="monitor" id="273225" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="273201" flags="" value="0.5"/>
+        <Controllable name="pan-azimuth" id="273201" flags="" value="0.93269230769230782"/>
         <Controllable name="pan-width" id="273205" flags="" value="0"/>
         <Controllable name="pan-elevation" id="273203" flags="" value="0"/>
         <Controllable name="pan-frontback" id="273207" flags="" value="0"/>
@@ -9663,7 +9662,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="273185" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="273186" flags="GainLike" value="0.13490515947341919"/>
+        <Controllable name="gaincontrol" id="273186" flags="GainLike" value="0.057882592082023621"/>
       </Processor>
       <Processor id="299770" name="GxAmplifier-Stereo-X" active="1" user-latency="0" use-user-latency="0" type="lv2" unique-id="http://guitarix.sourceforge.net/plugins/gx_amp_stereo#GUITARIX_ST" count="1" custom="0">
         <Automation>
@@ -10331,6 +10330,128 @@
         <Controllable name="Quality factor 15" id="273652" flags="" value="0" parameter="171" symbol="q_15"/>
         <Controllable name="Hue 15" id="273654" flags="" value="0.9375" parameter="172" symbol="hue_15"/>
       </Processor>
+      <Processor id="336062" name="x42-eq - Parametric Equalizer Mono" active="1" user-latency="0" use-user-latency="0" type="lv2" unique-id="http://gareus.org/oss/lv2/fil4#mono" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="336063" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="336065" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="336067" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="336069" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="336071" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-8" id="336073" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-9" id="336075" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="336077" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="336079" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-12" id="336081" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-13" id="336083" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-14" id="336085" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="336087" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="336089" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="336091" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-18" id="336093" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-19" id="336095" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-20" id="336097" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-21" id="336099" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-22" id="336101" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-23" id="336103" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-24" id="336105" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-25" id="336107" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-26" id="336109" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-27" id="336111" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-28" id="336113" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-29" id="336115" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-30" id="336117" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-31" id="336119" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-32" id="336121" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-33" id="336123" interpolation-style="Logarithmic" state="Off"/>
+          <AutomationList automation-id="parameter-34" id="336125" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-35" id="336127" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state1">
+          <Port symbol="enable" value="1"/>
+          <Port symbol="gain" value="0"/>
+          <Port symbol="peakreset" value="1"/>
+          <Port symbol="HighPass" value="1"/>
+          <Port symbol="HPfreq" value="458.8177490234375"/>
+          <Port symbol="HPQ" value="0.69999998807907104"/>
+          <Port symbol="LowPass" value="0"/>
+          <Port symbol="LPfreq" value="20000"/>
+          <Port symbol="LPQ" value="1"/>
+          <Port symbol="LSsec" value="1"/>
+          <Port symbol="LSfreq" value="80"/>
+          <Port symbol="LSq" value="1"/>
+          <Port symbol="LSgain" value="0"/>
+          <Port symbol="sec1" value="1"/>
+          <Port symbol="freq1" value="160"/>
+          <Port symbol="q1" value="0.60000002384185791"/>
+          <Port symbol="gain1" value="0"/>
+          <Port symbol="sec2" value="1"/>
+          <Port symbol="freq2" value="397"/>
+          <Port symbol="q2" value="0.60000002384185791"/>
+          <Port symbol="gain2" value="0"/>
+          <Port symbol="sec3" value="1"/>
+          <Port symbol="freq3" value="1250"/>
+          <Port symbol="q3" value="0.60000002384185791"/>
+          <Port symbol="gain3" value="0"/>
+          <Port symbol="sec4" value="1"/>
+          <Port symbol="freq4" value="2500"/>
+          <Port symbol="q4" value="0.60000002384185791"/>
+          <Port symbol="gain4" value="0"/>
+          <Port symbol="HSsec" value="1"/>
+          <Port symbol="HSfreq" value="8000"/>
+          <Port symbol="HSq" value="1"/>
+          <Port symbol="HSgain" value="0"/>
+        </lv2>
+        <Controllable name="Enable" id="336064" flags="Toggle" value="1" parameter="2" symbol="enable"/>
+        <Controllable name="Gain" id="336066" flags="" value="0" parameter="3" symbol="gain"/>
+        <Controllable name="Reset Peak Hold" id="336068" flags="Toggle" value="1" parameter="5" symbol="peakreset"/>
+        <Controllable name="Highpass" id="336070" flags="Toggle" value="1" parameter="6" symbol="HighPass"/>
+        <Controllable name="Highpass Frequency" id="336072" flags="" value="458.8177490234375" parameter="7" symbol="HPfreq"/>
+        <Controllable name="HighPass Resonance" id="336074" flags="" value="0.69999998807907104" parameter="8" symbol="HPQ"/>
+        <Controllable name="Lowpass" id="336076" flags="Toggle" value="0" parameter="9" symbol="LowPass"/>
+        <Controllable name="Lowpass Frequency" id="336078" flags="" value="20000" parameter="10" symbol="LPfreq"/>
+        <Controllable name="LowPass Resonance" id="336080" flags="" value="1" parameter="11" symbol="LPQ"/>
+        <Controllable name="Lowshelf" id="336082" flags="Toggle" value="1" parameter="12" symbol="LSsec"/>
+        <Controllable name="Lowshelf Frequency" id="336084" flags="" value="80" parameter="13" symbol="LSfreq"/>
+        <Controllable name="Lowshelf Bandwidth" id="336086" flags="" value="1" parameter="14" symbol="LSq"/>
+        <Controllable name="Lowshelf Gain" id="336088" flags="" value="0" parameter="15" symbol="LSgain"/>
+        <Controllable name="Section 1" id="336090" flags="Toggle" value="1" parameter="16" symbol="sec1"/>
+        <Controllable name="Frequency 1" id="336092" flags="" value="160" parameter="17" symbol="freq1"/>
+        <Controllable name="Bandwidth 1" id="336094" flags="" value="0.60000002384185791" parameter="18" symbol="q1"/>
+        <Controllable name="Gain 1" id="336096" flags="" value="0" parameter="19" symbol="gain1"/>
+        <Controllable name="Section 2" id="336098" flags="Toggle" value="1" parameter="20" symbol="sec2"/>
+        <Controllable name="Frequency 2" id="336100" flags="" value="397" parameter="21" symbol="freq2"/>
+        <Controllable name="Bandwidth 2" id="336102" flags="" value="0.60000002384185791" parameter="22" symbol="q2"/>
+        <Controllable name="Gain 2" id="336104" flags="" value="0" parameter="23" symbol="gain2"/>
+        <Controllable name="Section 3" id="336106" flags="Toggle" value="1" parameter="24" symbol="sec3"/>
+        <Controllable name="Frequency 3" id="336108" flags="" value="1250" parameter="25" symbol="freq3"/>
+        <Controllable name="Bandwidth 3" id="336110" flags="" value="0.60000002384185791" parameter="26" symbol="q3"/>
+        <Controllable name="Gain 3" id="336112" flags="" value="0" parameter="27" symbol="gain3"/>
+        <Controllable name="Section 4" id="336114" flags="Toggle" value="1" parameter="28" symbol="sec4"/>
+        <Controllable name="Frequency 4" id="336116" flags="" value="2500" parameter="29" symbol="freq4"/>
+        <Controllable name="Bandwidth 4" id="336118" flags="" value="0.60000002384185791" parameter="30" symbol="q4"/>
+        <Controllable name="Gain 4" id="336120" flags="" value="0" parameter="31" symbol="gain4"/>
+        <Controllable name="Highshelf" id="336122" flags="Toggle" value="1" parameter="32" symbol="HSsec"/>
+        <Controllable name="Highshelf Frequency" id="336124" flags="" value="8000" parameter="33" symbol="HSfreq"/>
+        <Controllable name="Highshelf Bandwidth" id="336126" flags="" value="1" parameter="34" symbol="HSq"/>
+        <Controllable name="Highshelf Gain" id="336128" flags="" value="0" parameter="35" symbol="HSgain"/>
+      </Processor>
       <Processor id="273216" name="meter-Audio 1" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="273217" name="Cliff Guitar" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Cliff Guitar" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
@@ -10397,7 +10518,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="289825" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="289826" flags="GainLike" value="0.039810720831155777"/>
+        <Controllable name="gaincontrol" id="289826" flags="GainLike" value="0.066606886684894562"/>
       </Processor>
       <Processor id="299750" name="BassUp" active="1" user-latency="0" use-user-latency="0" type="lv2" unique-id="http://eq10q.sourceforge.net/bassup" count="1" custom="0">
         <Automation>
@@ -29594,7 +29715,7 @@
       <Automation>
         <AutomationList automation-id="gain" id="59" interpolation-style="Exponential" state="Off"/>
       </Automation>
-      <Controllable name="gaincontrol" id="60" flags="GainLike" value="0.022506076842546463"/>
+      <Controllable name="gaincontrol" id="60" flags="GainLike" value="1.6032533645629883"/>
     </Processor>
   </Click>
   <Speakers>
@@ -29674,24 +29795,24 @@
     </ExportProfile>
     <UI>
       <Window name="key-editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="session-options-editor" visible="0" x-off="0" y-off="485" x-size="910" y-size="465"/>
+      <Window name="session-options-editor" visible="0" x-off="0" y-off="335" x-size="750" y-size="368"/>
       <Window name="speaker-config" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="about" visible="0" x-off="0" y-off="0" x-size="424" y-size="694"/>
-      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="890" y-size="545"/>
+      <Window name="about" visible="0" x-off="0" y-off="0" x-size="424" y-size="611"/>
+      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="652" y-size="503"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="inspector" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-midi-setup" visible="0" x-off="532" y-off="288" x-size="856" y-size="504"/>
+      <Window name="inspector" visible="0" x-off="57" y-off="57" x-size="620" y-size="370"/>
+      <Window name="audio-midi-setup" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="script-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="script-manager" visible="0" x-off="839" y-off="381" x-size="341" y-size="372"/>
       <Window name="bundle-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="locations" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="big-clock" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="big-transport" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="virtual-keyboard" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-connection-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="audio-connection-manager" visible="0" x-off="73" y-off="126" x-size="572" y-size="643"/>
       <Window name="midi-connection-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="idle-o-meter" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="plugin-manager" visible="0" x-off="876" y-off="311" x-size="670" y-size="600"/>
+      <Window name="plugin-manager" visible="0" x-off="1160" y-off="80" x-size="641" y-size="600"/>
       <Window name="plugin-dsp-load" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="dsp-statistics" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="transport-masters" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -29730,6 +29851,12 @@
       <Window name="RPM-127857" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-158112" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-2696" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-289800-299750" visible="0" x-off="0" y-off="225" x-size="382" y-size="34" custom-ui="1"/>
+      <Window name="P-289800-289926" visible="0" x-off="0" y-off="0" x-size="1144" y-size="591" custom-ui="1"/>
+      <Window name="P-289800-290424" visible="0" x-off="0" y-off="0" x-size="1037" y-size="717" custom-ui="1"/>
+      <Window name="PM-289800-299750" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-289800-289926" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-289800-290424" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-949-1321" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-949-1321" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-1043-1460" visible="0" x-off="1119" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
@@ -29758,12 +29885,6 @@
       <Window name="P-192904-193528" visible="0" x-off="0" y-off="0" x-size="1037" y-size="717" custom-ui="1"/>
       <Window name="PM-192904-193030" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-192904-193528" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-289800-299750" visible="0" x-off="0" y-off="225" x-size="497" y-size="43" custom-ui="1"/>
-      <Window name="P-289800-289926" visible="0" x-off="0" y-off="0" x-size="1144" y-size="591" custom-ui="1"/>
-      <Window name="P-289800-290424" visible="0" x-off="0" y-off="0" x-size="1037" y-size="717" custom-ui="1"/>
-      <Window name="PM-289800-299750" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-289800-289926" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-289800-290424" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-273182-299770" visible="0" x-off="0" y-off="127" x-size="870" y-size="239" custom-ui="1"/>
       <Window name="P-273182-273278" visible="0" x-off="0" y-off="0" x-size="1144" y-size="591" custom-ui="1"/>
       <Window name="P-273182-273346" visible="0" x-off="0" y-off="0" x-size="1037" y-size="717" custom-ui="1"/>
@@ -29784,6 +29905,8 @@
       <Window name="PM-4820-36438" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-2696-2930" visible="0" x-off="454" y-off="0" x-size="800" y-size="434" custom-ui="1"/>
       <Window name="PM-2696-2930" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-273182-336062" visible="0" x-off="742" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="PM-273182-336062" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 64" height="66" visible="1"/>
         <Object id="automation 68" height="66" visible="0"/>
@@ -31193,6 +31316,41 @@
             <Object id="control 299792" visible="0"/>
             <Object id="control 299794" visible="0"/>
             <Object id="control 299796" visible="0"/>
+          </Object>
+          <Object id="processor 336062">
+            <Object id="control 336064" visible="0"/>
+            <Object id="control 336066" visible="0"/>
+            <Object id="control 336068" visible="0"/>
+            <Object id="control 336070" visible="0"/>
+            <Object id="control 336072" visible="0"/>
+            <Object id="control 336074" visible="0"/>
+            <Object id="control 336076" visible="0"/>
+            <Object id="control 336078" visible="0"/>
+            <Object id="control 336080" visible="0"/>
+            <Object id="control 336082" visible="0"/>
+            <Object id="control 336084" visible="0"/>
+            <Object id="control 336086" visible="0"/>
+            <Object id="control 336088" visible="0"/>
+            <Object id="control 336090" visible="0"/>
+            <Object id="control 336092" visible="0"/>
+            <Object id="control 336094" visible="0"/>
+            <Object id="control 336096" visible="0"/>
+            <Object id="control 336098" visible="0"/>
+            <Object id="control 336100" visible="0"/>
+            <Object id="control 336102" visible="0"/>
+            <Object id="control 336104" visible="0"/>
+            <Object id="control 336106" visible="0"/>
+            <Object id="control 336108" visible="0"/>
+            <Object id="control 336110" visible="0"/>
+            <Object id="control 336112" visible="0"/>
+            <Object id="control 336114" visible="0"/>
+            <Object id="control 336116" visible="0"/>
+            <Object id="control 336118" visible="0"/>
+            <Object id="control 336120" visible="0"/>
+            <Object id="control 336122" visible="0"/>
+            <Object id="control 336124" visible="0"/>
+            <Object id="control 336126" visible="0"/>
+            <Object id="InlineDisplay" visible="1"/>
           </Object>
         </Object>
         <Object id="rtav 273182" height="84" visible="1"/>
