@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="a-new-face-230905" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="581510" name-counter="3" event-counter="222557" vca-counter="1">
+<Session version="6000" name="a-new-face-230905" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="613767" name-counter="3" event-counter="223299" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -541,6 +541,21 @@
     <Source name="bg vocals-3.wav" take-id="2024-08-27 00.34.32" type="audio" flags="" id="581303" timestamp="1724736872" natural-position="46340831" captured-for="bg vocals" channel="0" origin="" gain="1"/>
     <Source name="bg vocals-4.wav" take-id="2024-08-27 00.39.12" type="audio" flags="" id="581411" timestamp="1724737152" natural-position="49574831" captured-for="bg vocals" channel="0" origin="" gain="1"/>
     <Source name="bg vocals-5.wav" take-id="2024-08-27 00.40.00" type="audio" flags="" id="581451" timestamp="1724737200" natural-position="51118331" captured-for="bg vocals" channel="0" origin="" gain="1"/>
+    <Source name="Tom guitar-1.wav" take-id="2024-08-31 23.35.43" type="audio" flags="" id="612869" timestamp="1725165343" natural-position="49427831" captured-for="Tom guitar" channel="0" origin="" gain="1"/>
+    <Source name="Tom guitar-2.wav" take-id="2024-08-31 23.37.47" type="audio" flags="" id="612912" timestamp="1725165467" natural-position="49427831" captured-for="Tom guitar" channel="0" origin="" gain="1"/>
+    <Source name="tom key guitar-1.wav" take-id="2024-08-31 23.54.40" type="audio" flags="" id="613023" timestamp="1725166480" natural-position="49423237" captured-for="tom key guitar" channel="0" origin="" gain="1"/>
+    <Source name="tom key guitar-2.wav" take-id="2024-08-31 23.56.05" type="audio" flags="" id="613066" timestamp="1725166565" natural-position="49423237" captured-for="tom key guitar" channel="0" origin="" gain="1"/>
+    <Source name="tom key guitar-3.wav" take-id="2024-08-31 23.57.39" type="audio" flags="" id="613104" timestamp="1725166659" natural-position="49423237" captured-for="tom key guitar" channel="0" origin="" gain="1"/>
+    <Source name="tom key guitar-4.wav" take-id="2024-08-31 23.59.08" type="audio" flags="" id="613142" timestamp="1725166748" natural-position="49423237" captured-for="tom key guitar" channel="0" origin="" gain="1"/>
+    <Source name="tom key guitar-5.wav" take-id="2024-09-01 00.00.32" type="audio" flags="" id="613180" timestamp="1725166832" natural-position="49423237" captured-for="tom key guitar" channel="0" origin="" gain="1"/>
+    <Source name="tom key guitar-6.wav" take-id="2024-09-01 00.02.12" type="audio" flags="" id="613218" timestamp="1725166932" natural-position="49423237" captured-for="tom key guitar" channel="0" origin="" gain="1"/>
+    <Source name="tom key sax-1.wav" take-id="2024-09-01 00.15.21" type="audio" flags="" id="613326" timestamp="1725167721" natural-position="49427831" captured-for="tom key sax" channel="0" origin="" gain="1"/>
+    <Source name="tom key sax-2.wav" take-id="2024-09-01 00.16.44" type="audio" flags="" id="613404" timestamp="1725167804" natural-position="49427831" captured-for="tom key sax" channel="0" origin="" gain="1"/>
+    <Source name="tom key sax-3.wav" take-id="2024-09-01 00.17.25" type="audio" flags="" id="613443" timestamp="1725167845" natural-position="49427831" captured-for="tom key sax" channel="0" origin="" gain="1"/>
+    <Source name="tom key sax-4.wav" take-id="2024-09-01 00.17.51" type="audio" flags="" id="613480" timestamp="1725167871" natural-position="49427831" captured-for="tom key sax" channel="0" origin="" gain="1"/>
+    <Source name="tom key sax-5.wav" take-id="2024-09-01 00.18.36" type="audio" flags="" id="613519" timestamp="1725167916" natural-position="49427831" captured-for="tom key sax" channel="0" origin="" gain="1"/>
+    <Source name="tom key sax-6.wav" take-id="2024-09-01 00.20.26" type="audio" flags="" id="613557" timestamp="1725168026" natural-position="49427831" captured-for="tom key sax" channel="0" origin="" gain="1"/>
+    <Source name="tom key sax-7.wav" take-id="2024-09-01 00.21.04" type="audio" flags="" id="613594" timestamp="1725168064" natural-position="49427831" captured-for="tom key sax" channel="0" origin="" gain="1"/>
   </Sources>
   <Regions>
     <Region name="Reed organ-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="7565808" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="258" type="audio" first-edit="nothing" source-0="214" master-source-0="214" channels="1"/>
@@ -3659,6 +3674,7 @@
     <Region name="Rob guitar-6.70" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="656907" length="13783" position="50417807" beat="2469.8762312925169" sync-position="656907" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="545485" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1"/>
     <Region name="Rob guitar-6.71" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="656907" length="13783" position="50436215" beat="2470.8780272108843" sync-position="656907" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="545503" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1"/>
     <Region name="Rob guitar-6.72" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="675291" length="128583" position="50323621" beat="2464.7504625850338" sync-position="675291" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="545521" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1"/>
+    <Region name="Rob guitar-6.73" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="803874" length="1640002" position="50452204" beat="2471.5" sync-position="803874" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="545530" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1"/>
     <Region name="Rob guitar-6.74" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="675291" length="39156" position="50323621" beat="2464.7504625850338" sync-position="675291" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="545707" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1"/>
     <Region name="Rob guitar-6.75" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="714447" length="89427" position="50362777" beat="2466.8814013605443" sync-position="714447" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="545716" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1"/>
     <Region name="Audio 1-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5457376" length="55126" position="0" beat="0" sync-position="5457376" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="545965" type="audio" first-edit="nothing" source-0="273229" master-source-0="273229" channels="1"/>
@@ -3666,6 +3682,7 @@
     <Region name="Audio 1-1.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5457376" length="55126" position="50456831" beat="2471.9999863945582" sync-position="5457376" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="545991" type="audio" first-edit="nothing" source-0="273229" master-source-0="273229" channels="1"/>
     <Region name="Cliff Guitar-3.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5457376" length="55126" position="50456831" beat="2471.9999863945582" sync-position="5457376" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="546002" type="audio" first-edit="nothing" source-0="273774" master-source-0="273774" channels="1"/>
     <Region name="Cliff Guitar-3.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5457376" length="55126" position="50401706" beat="2468.9999863945577" sync-position="5457376" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="19" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="546023" type="audio" first-edit="nothing" source-0="273774" master-source-0="273774" channels="1"/>
+    <Region name="Rob guitar-6.82" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="803874" length="1640002" position="50452438" beat="2471.760911564626" sync-position="803874" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="546903" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1"/>
     <Region name="Rob guitar-6.84" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="73501" length="569625" position="45017831" beat="2175.9999863945577" sync-position="73501" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="547245" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1"/>
     <Region name="Rob guitar-6.85" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="643126" length="895781" position="45587456" beat="2207" sync-position="643126" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="547254" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1"/>
     <Region name="Rob guitar-6.86" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="73501" length="569391" position="45018065" beat="2176.0127210884357" sync-position="73501" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="547268" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1"/>
@@ -3742,6 +3759,35 @@
     <Region name="bg vocals-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2524144" position="46340831" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="581313" type="audio" first-edit="nothing" source-0="581303" master-source-0="581303" channels="1"/>
     <Region name="bg vocals-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1846256" position="49574831" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="581423" type="audio" first-edit="nothing" source-0="581411" master-source-0="581411" channels="1"/>
     <Region name="bg vocals-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1854960" position="51118331" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="581461" type="audio" first-edit="nothing" source-0="581451" master-source-0="581451" channels="1"/>
+    <Region name="Tom guitar-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1846256" position="49427831" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="612885" type="audio" first-edit="nothing" source-0="612869" master-source-0="612869" channels="1"/>
+    <Region name="Tom guitar-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1846256" position="49427831" beat="2415.9999863945582" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="612893" type="audio" first-edit="nothing" source-0="612869" master-source-0="612869" channels="1"/>
+    <Region name="Tom guitar-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1818096" position="49427831" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="612934" type="audio" first-edit="nothing" source-0="612912" master-source-0="612912" channels="1"/>
+    <Region name="Tom guitar-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1818096" position="49427831" beat="2415.9999863945582" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="612942" type="audio" first-edit="nothing" source-0="612912" master-source-0="612912" channels="1"/>
+    <Region name="tom key guitar-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1862128" position="49423237" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613039" type="audio" first-edit="nothing" source-0="613023" master-source-0="613023" channels="1"/>
+    <Region name="tom key guitar-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1862128" position="49423237" beat="2415.7499727891159" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613047" type="audio" first-edit="nothing" source-0="613023" master-source-0="613023" channels="1"/>
+    <Region name="tom key guitar-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1904112" position="49423237" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613077" type="audio" first-edit="nothing" source-0="613066" master-source-0="613066" channels="1"/>
+    <Region name="tom key guitar-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1904112" position="49423237" beat="2415.7499727891159" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613085" type="audio" first-edit="nothing" source-0="613066" master-source-0="613066" channels="1"/>
+    <Region name="tom key guitar-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1896944" position="49423237" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613115" type="audio" first-edit="nothing" source-0="613104" master-source-0="613104" channels="1"/>
+    <Region name="tom key guitar-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1896944" position="49423237" beat="2415.7499727891159" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613123" type="audio" first-edit="nothing" source-0="613104" master-source-0="613104" channels="1"/>
+    <Region name="tom key guitar-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1871856" position="49423237" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613153" type="audio" first-edit="nothing" source-0="613142" master-source-0="613142" channels="1"/>
+    <Region name="tom key guitar-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1871856" position="49423237" beat="2415.7499727891159" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613161" type="audio" first-edit="nothing" source-0="613142" master-source-0="613142" channels="1"/>
+    <Region name="tom key guitar-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1880560" position="49423237" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613191" type="audio" first-edit="nothing" source-0="613180" master-source-0="613180" channels="1"/>
+    <Region name="tom key guitar-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1886704" position="49423237" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613229" type="audio" first-edit="nothing" source-0="613218" master-source-0="613218" channels="1"/>
+    <Region name="tom key sax-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1877488" position="49427831" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613377" type="audio" first-edit="nothing" source-0="613326" master-source-0="613326" channels="1"/>
+    <Region name="tom key sax-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1877488" position="49427831" beat="2415.9999863945582" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613385" type="audio" first-edit="nothing" source-0="613326" master-source-0="613326" channels="1"/>
+    <Region name="tom key sax-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="991216" position="49427831" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613415" type="audio" first-edit="nothing" source-0="613404" master-source-0="613404" channels="1"/>
+    <Region name="tom key sax-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="991216" position="49427831" beat="2415.9999863945582" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613423" type="audio" first-edit="nothing" source-0="613404" master-source-0="613404" channels="1"/>
+    <Region name="tom key sax-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="731632" position="49427831" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613453" type="audio" first-edit="nothing" source-0="613443" master-source-0="613443" channels="1"/>
+    <Region name="tom key sax-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="731632" position="49427831" beat="2415.9999863945582" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613461" type="audio" first-edit="nothing" source-0="613443" master-source-0="613443" channels="1"/>
+    <Region name="tom key sax-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1016816" position="49427831" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613491" type="audio" first-edit="nothing" source-0="613480" master-source-0="613480" channels="1"/>
+    <Region name="tom key sax-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1016816" position="49427831" beat="2415.9999863945582" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613499" type="audio" first-edit="nothing" source-0="613480" master-source-0="613480" channels="1"/>
+    <Region name="tom key sax-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1091056" position="49427831" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613529" type="audio" first-edit="nothing" source-0="613519" master-source-0="613519" channels="1"/>
+    <Region name="tom key sax-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1482224" position="49427831" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613567" type="audio" first-edit="nothing" source-0="613557" master-source-0="613557" channels="1"/>
+    <Region name="tom key sax-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1482224" position="49427831" beat="2415.9999863945582" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613575" type="audio" first-edit="nothing" source-0="613557" master-source-0="613557" channels="1"/>
+    <Region name="tom key sax-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1493488" position="49427831" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613605" type="audio" first-edit="nothing" source-0="613594" master-source-0="613594" channels="1"/>
+    <Region name="tom key sax-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1493488" position="49427831" beat="2415.9999863945582" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613613" type="audio" first-edit="nothing" source-0="613594" master-source-0="613594" channels="1"/>
+    <Region name="tom key sax-5.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="422625" position="49427831" beat="2415.9999863945582" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613636" type="audio" first-edit="nothing" source-0="613519" master-source-0="613519" channels="1"/>
+    <Region name="tom key sax-5.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="422625" length="668431" position="49850456" beat="2439" sync-position="422625" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613645" type="audio" first-edit="nothing" source-0="613519" master-source-0="613519" channels="1"/>
   </Regions>
   <CompoundAssociations>
     <CompoundAssociation copy="298901" original="298037"/>
@@ -3759,15 +3805,11 @@
     <CompoundAssociation copy="379457" original="379396"/>
     <CompoundAssociation copy="379468" original="379405"/>
   </CompoundAssociations>
-  <Selection>
-    <StripableAutomationControl stripable="509498" control="0" order="7"/>
-  </Selection>
+  <Selection/>
   <Locations>
     <Location id="284" name="session" start="44999456" end="53029331" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1693892694"/>
-    <Location id="117391" name="Loop" start="45592049" end="46474049" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1705555026"/>
+    <Location id="117391" name="Loop" start="49721830" end="51191831" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1705555026"/>
     <Location id="207916" name="new version" start="30294862" end="30294862" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1710386611"/>
-    <Location id="448155" name="xrun" start="47088416" end="47088416" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1714623150"/>
-    <Location id="448156" name="xrun" start="47088416" end="47088416" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1714623150"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
@@ -3820,6 +3862,8 @@
           <Connection other="melhorns/audio_out 1"/>
           <Connection other="reverb Bus/audio_out 1"/>
           <Connection other="small snare/audio_out 1"/>
+          <Connection other="tom key guitar/audio_out 1"/>
+          <Connection other="tom key sax/audio_out 1"/>
           <Connection other="vibes/audio_out 1"/>
           <Connection other="vocals/audio_out 1"/>
         </Port>
@@ -3865,6 +3909,8 @@
           <Connection other="melhorns/audio_out 2"/>
           <Connection other="reverb Bus/audio_out 2"/>
           <Connection other="small snare/audio_out 2"/>
+          <Connection other="tom key guitar/audio_out 2"/>
+          <Connection other="tom key sax/audio_out 2"/>
           <Connection other="vibes/audio_out 2"/>
           <Connection other="vocals/audio_out 2"/>
         </Port>
@@ -4106,7 +4152,7 @@
       <Slavable/>
     </Route>
     <Route version="6000" id="167" name="Reed organ" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="212" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="31" flags="AudioTrack,OrderSet" color="2188832255"/>
+      <PresentationInfo order="33" flags="AudioTrack,OrderSet" color="2188832255"/>
       <Controllable name="solo" id="175" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="181" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="183" flags="Toggle" value="0" solo-safe="0"/>
@@ -4295,7 +4341,7 @@
       <Controllable name="rec-enable" id="207" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="949" name="accordion" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="994" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="26" flags="AudioTrack,OrderSet" color="3856786431"/>
+      <PresentationInfo order="28" flags="AudioTrack,OrderSet" color="3856786431"/>
       <Controllable name="solo" id="957" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="963" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="965" flags="Toggle" value="0" solo-safe="0"/>
@@ -4966,7 +5012,7 @@
       <Controllable name="rec-enable" id="1666" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="2696" name="Red Zeppelin Drumkit Multi" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" midi-playlist="2741" saved-meter-point="MeterPostFader" alignment-choice="Automatic" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1" restore-pgm="1">
-      <PresentationInfo order="42" flags="MidiTrack,OrderSet" color="2212879359"/>
+      <PresentationInfo order="44" flags="MidiTrack,OrderSet" color="2212879359"/>
       <Controllable name="solo" id="2704" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2710" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="2712" flags="Toggle" value="0" solo-safe="0"/>
@@ -5052,7 +5098,7 @@
       <Controllable name="rec-enable" id="2736" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="4667" name="Drum 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="drums" audio-playlist="81923" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="32" flags="AudioTrack,OrderSet" color="2238899711"/>
+      <PresentationInfo order="34" flags="AudioTrack,OrderSet" color="2238899711"/>
       <Controllable name="solo" id="4675" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="4681" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="4683" flags="Toggle" value="0" solo-safe="0"/>
@@ -5119,7 +5165,7 @@
       <Controllable name="rec-enable" id="4707" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="4718" name="Drum 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="drums" audio-playlist="81927" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="33" flags="AudioTrack,OrderSet" color="3638915839"/>
+      <PresentationInfo order="35" flags="AudioTrack,OrderSet" color="3638915839"/>
       <Controllable name="solo" id="4726" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="4732" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="4734" flags="Toggle" value="0" solo-safe="0"/>
@@ -5186,7 +5232,7 @@
       <Controllable name="rec-enable" id="4758" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="4769" name="Drum 3" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="drums" audio-playlist="81931" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="34" flags="AudioTrack,OrderSet" color="3854094847"/>
+      <PresentationInfo order="36" flags="AudioTrack,OrderSet" color="3854094847"/>
       <Controllable name="solo" id="4777" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="4783" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="4785" flags="Toggle" value="0" solo-safe="0"/>
@@ -5851,7 +5897,7 @@
       <Controllable name="rec-enable" id="4809" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="4820" name="Drum 4" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="drums" audio-playlist="81935" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="35" flags="AudioTrack,OrderSet" color="1920394751"/>
+      <PresentationInfo order="37" flags="AudioTrack,OrderSet" color="1920394751"/>
       <Controllable name="solo" id="4828" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="4834" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="4836" flags="Toggle" value="0" solo-safe="0"/>
@@ -6403,7 +6449,7 @@
       <Controllable name="rec-enable" id="4860" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="4871" name="Drum 5" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="drums" audio-playlist="81939" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="36" flags="AudioTrack,OrderSet" color="3430082047"/>
+      <PresentationInfo order="38" flags="AudioTrack,OrderSet" color="3430082047"/>
       <Controllable name="solo" id="4879" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="4885" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="4887" flags="Toggle" value="0" solo-safe="0"/>
@@ -6470,7 +6516,7 @@
       <Controllable name="rec-enable" id="4911" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="4922" name="Drum 6" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="drums" audio-playlist="81943" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="37" flags="AudioTrack,OrderSet" color="3852580607"/>
+      <PresentationInfo order="39" flags="AudioTrack,OrderSet" color="3852580607"/>
       <Controllable name="solo" id="4930" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="4936" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="4938" flags="Toggle" value="0" solo-safe="0"/>
@@ -6537,7 +6583,7 @@
       <Controllable name="rec-enable" id="4962" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="4973" name="Drum 7" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="drums" audio-playlist="81947" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="38" flags="AudioTrack,OrderSet" color="1921377791"/>
+      <PresentationInfo order="40" flags="AudioTrack,OrderSet" color="1921377791"/>
       <Controllable name="solo" id="4981" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="4987" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="4989" flags="Toggle" value="0" solo-safe="0"/>
@@ -6604,7 +6650,7 @@
       <Controllable name="rec-enable" id="5013" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="5024" name="Drum 8" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="drums" audio-playlist="81951" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="39" flags="AudioTrack,OrderSet" color="3849504511"/>
+      <PresentationInfo order="41" flags="AudioTrack,OrderSet" color="3849504511"/>
       <Controllable name="solo" id="5032" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="5038" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="5040" flags="Toggle" value="0" solo-safe="0"/>
@@ -6671,7 +6717,7 @@
       <Controllable name="rec-enable" id="5064" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="10915" name="Bass" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="10960" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="30" flags="AudioTrack,OrderSet" color="2514842367"/>
+      <PresentationInfo order="32" flags="AudioTrack,OrderSet" color="2514842367"/>
       <Controllable name="solo" id="10923" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="10929" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="10931" flags="Toggle" value="0" solo-safe="0"/>
@@ -7343,7 +7389,7 @@
       <Controllable name="rec-enable" id="10955" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="52119" name="Guitar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="52164" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="27" flags="AudioTrack,OrderSet" color="3849489407"/>
+      <PresentationInfo order="29" flags="AudioTrack,OrderSet" color="3849489407"/>
       <Controllable name="solo" id="52127" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="52133" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="52135" flags="Toggle" value="0" solo-safe="0"/>
@@ -7895,7 +7941,7 @@
       <Controllable name="rec-enable" id="52159" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="106043" name="Bass Edit" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="105957" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="29" flags="AudioTrack,OrderSet" color="2514842367"/>
+      <PresentationInfo order="31" flags="AudioTrack,OrderSet" color="2514842367"/>
       <Controllable name="solo" id="106006" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="106825" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="106826" flags="Toggle" value="0" solo-safe="0"/>
@@ -8567,7 +8613,7 @@
       <Controllable name="rec-enable" id="106841" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="107393" name="bass synth" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" midi-playlist="107438" saved-meter-point="MeterPostFader" alignment-choice="Automatic" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1" restore-pgm="1">
-      <PresentationInfo order="28" flags="MidiTrack,OrderSet" color="1927666431"/>
+      <PresentationInfo order="30" flags="MidiTrack,OrderSet" color="1927666431"/>
       <Controllable name="solo" id="107401" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="107407" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="107409" flags="Toggle" value="0" solo-safe="0"/>
@@ -8659,7 +8705,7 @@
       <Controllable name="rec-enable" id="107433" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="127857" name="guitar keys" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="128239" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="40" flags="AudioTrack,OrderSet" color="3856982527"/>
+      <PresentationInfo order="42" flags="AudioTrack,OrderSet" color="3856982527"/>
       <Controllable name="solo" id="127865" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="127871" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="127873" flags="Toggle" value="0" solo-safe="0"/>
@@ -8726,7 +8772,7 @@
       <Controllable name="rec-enable" id="127897" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="158112" name="guitar keys 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="158039" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="41" flags="AudioTrack,OrderSet" color="3856982527"/>
+      <PresentationInfo order="43" flags="AudioTrack,OrderSet" color="3856982527"/>
       <Controllable name="solo" id="158075" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="158142" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="158143" flags="Toggle" value="0" solo-safe="0"/>
@@ -10724,7 +10770,7 @@
       <Controllable name="rec-enable" id="209679" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="227087" name="vocals" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="548018" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="22" flags="AudioTrack,OrderSet" color="3853229823"/>
+      <PresentationInfo order="24" flags="AudioTrack,OrderSet" color="3853229823"/>
       <Controllable name="solo" id="227095" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="227101" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="227103" flags="Toggle" value="0" solo-safe="0"/>
@@ -12716,7 +12762,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <Controllable name="rec-enable" id="290598" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="354359" name="melhorns" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="354404" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="19" flags="AudioTrack,OrderSet" color="1927651071"/>
+      <PresentationInfo order="21" flags="AudioTrack,OrderSet" color="1927651071"/>
       <Controllable name="solo" id="354367" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="354373" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="354375" flags="Toggle" value="0" solo-safe="0"/>
@@ -12994,7 +13040,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <Slavable/>
     </Route>
     <Route version="6000" id="447554" name="Eric Sax Guitar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="447599" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="20" flags="AudioTrack,OrderSet" color="3185370623"/>
+      <PresentationInfo order="22" flags="AudioTrack,OrderSet" color="3185370623"/>
       <Controllable name="solo" id="447562" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="447568" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="447570" flags="Toggle" value="0" solo-safe="0"/>
@@ -13126,7 +13172,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <Controllable name="rec-enable" id="447594" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="447689" name="AudioEric guitar sax hits" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="447734" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="21" flags="AudioTrack,OrderSet" color="3849500671"/>
+      <PresentationInfo order="23" flags="AudioTrack,OrderSet" color="3849500671"/>
       <Controllable name="solo" id="447697" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="447703" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="447705" flags="Toggle" value="0" solo-safe="0"/>
@@ -13195,7 +13241,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <Controllable name="rec-enable" id="447729" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="447954" name="Rob guitar 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="447999" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="24" flags="AudioTrack,OrderSet" color="2531632127"/>
+      <PresentationInfo order="26" flags="AudioTrack,OrderSet" color="2531632127"/>
       <Controllable name="solo" id="447962" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="447968" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="447970" flags="Toggle" value="0" solo-safe="0"/>
@@ -13386,7 +13432,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <Controllable name="rec-enable" id="447994" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="448005" name="Eric guitar 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="448050" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="25" flags="AudioTrack,OrderSet" color="1927661311"/>
+      <PresentationInfo order="27" flags="AudioTrack,OrderSet" color="1927661311"/>
       <Controllable name="solo" id="448013" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="448019" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="448021" flags="Toggle" value="0" solo-safe="0"/>
@@ -13887,7 +13933,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <Controllable name="rec-enable" id="547197" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="581174" name="bg vocals" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="581219" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="23" flags="AudioTrack,OrderSet" color="2414201855"/>
+      <PresentationInfo order="25" flags="AudioTrack,OrderSet" color="2414201855"/>
       <Controllable name="solo" id="581182" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="581188" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="581190" flags="Toggle" value="0" solo-safe="0"/>
@@ -14076,6 +14122,142 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <Controllable name="monitor" id="581218" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="581216" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="581214" flags="Toggle,RealTime" value="0"/>
+    </Route>
+    <Route version="6000" id="612976" name="tom key guitar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="613021" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+      <PresentationInfo order="19" flags="AudioTrack,OrderSet" color="3855803391"/>
+      <Controllable name="solo" id="612984" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="612990" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="612992" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="tom key guitar" id="613004" direction="Input" default-type="audio">
+        <Port type="audio" name="tom key guitar/audio_in 1"/>
+      </IO>
+      <IO name="tom key guitar" id="613005" direction="Output" default-type="audio">
+        <Port type="audio" name="tom key guitar/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="tom key guitar/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="612986" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="612988" flags="Toggle" value="0" phase-invert="0"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="612983" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="612989" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="612991" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="612985" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="613015" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="613017" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="612987" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="613019" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="612995" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="612999" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="612997" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="613001" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="613003" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="612994" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="612996" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="612998" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="613000" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="613002" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="613014" name="recorder:tom key guitar" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
+      <Processor id="613013" name="player:tom key guitar" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
+      <Processor id="613007" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
+      <Processor id="613009" name="Amp" active="1" user-latency="0" use-user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="612981" interpolation-style="Logarithmic" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="612982" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="613006" name="Amp" active="1" user-latency="0" use-user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="612979" interpolation-style="Exponential" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="612980" flags="GainLike" value="0.40102675557136536"/>
+      </Processor>
+      <Processor id="613010" name="meter-tom key guitar" active="1" user-latency="0" use-user-latency="0" type="meter"/>
+      <Processor id="613011" name="tom key guitar" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="tom key guitar" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="613020" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="613018" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="613016" flags="Toggle,RealTime" value="0"/>
+    </Route>
+    <Route version="6000" id="613279" name="tom key sax" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="613324" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+      <PresentationInfo order="20" flags="AudioTrack,OrderSet" color="3856111359"/>
+      <Controllable name="solo" id="613287" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="613293" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="613295" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="tom key sax" id="613307" direction="Input" default-type="audio">
+        <Port type="audio" name="tom key sax/audio_in 1">
+          <Connection other="system:capture_12"/>
+        </Port>
+      </IO>
+      <IO name="tom key sax" id="613308" direction="Output" default-type="audio">
+        <Port type="audio" name="tom key sax/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="tom key sax/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="613289" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="613291" flags="Toggle" value="0" phase-invert="0"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="613286" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="613292" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="613294" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="613288" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="613318" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="613320" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="613290" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="613322" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="613298" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="613302" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="613300" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="613304" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="613306" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="613297" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="613299" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="613301" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="613303" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="613305" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="613317" name="recorder:tom key sax" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
+      <Processor id="613316" name="player:tom key sax" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
+      <Processor id="613310" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
+      <Processor id="613312" name="Amp" active="1" user-latency="0" use-user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="613284" interpolation-style="Logarithmic" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="613285" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="613309" name="Amp" active="1" user-latency="0" use-user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="613282" interpolation-style="Exponential" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="613283" flags="GainLike" value="0.61334317922592163"/>
+      </Processor>
+      <Processor id="613313" name="meter-tom key sax" active="1" user-latency="0" use-user-latency="0" type="meter"/>
+      <Processor id="613314" name="tom key sax" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="tom key sax" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="613323" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="613321" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="613319" flags="Toggle,RealTime" value="0"/>
     </Route>
   </Routes>
   <Playlists>
@@ -27831,7 +28013,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Rob guitar-6.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="73501" length="569625" position="49721831" beat="2431.9999863945582" sync-position="73501" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="419735" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
+      <Region name="Rob guitar-6.37" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="73501" length="569625" position="49721831" beat="2431.9999863945582" sync-position="73501" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="419735" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="419741" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001030303465
@@ -27868,7 +28050,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Rob guitar-6.64" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="643126" length="160748" position="50291456" beat="2462.9999863945582" sync-position="643126" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="545254" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
+      <Region name="Rob guitar-6.64" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="643126" length="160748" position="50291456" beat="2462.9999863945582" sync-position="643126" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="545254" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="545260" interpolation-style="Exponential" state="Off">
             <events>0 1.0000003000000002
@@ -27906,45 +28088,82 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Rob guitar-6.73" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="803874" length="1640002" position="50452204" beat="2471.5" sync-position="803874" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="545530" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
+      <Region name="Rob guitar-6.86" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="803874" length="574252" position="50452204" beat="2471.5" sync-position="803874" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="612781" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
         <Envelope>
-          <AutomationList automation-id="envelope" id="545536" interpolation-style="Exponential" state="Off">
+          <AutomationList automation-id="envelope" id="612787" interpolation-style="Exponential" state="Off">
             <events>0 1.0000005760565061
-1612439 1.0000002000000001
-1640002 1.0000002000000001
+574252 1.000000542128207
 </events>
           </AutomationList>
         </Envelope>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="545531" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="612782" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="545532" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="612783" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="545533" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="612784" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="545534" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="612785" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Rob guitar-6.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1534313" length="888940" position="52064643" beat="2559.4999591836731" sync-position="1534313" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="416487" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
+      <Region name="Rob guitar-6.87" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1378126" length="1065750" position="51026456" beat="2503" sync-position="1378126" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="612789" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="612795" interpolation-style="Exponential" state="Off">
+            <events>0 1.000000542128207
+1038187 1.0000002000000001
+1065750 1.0000002000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="612790" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="612791" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="612792" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="612793" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Rob guitar-6.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1534313" length="888940" position="52064643" beat="2559.4999591836731" sync-position="1534313" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="416487" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="416493" interpolation-style="Exponential" state="Off">
             <events>0 1.0000002994818369
@@ -40071,7 +40290,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Rob guitar-6.80" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="73501" length="569625" position="49722065" beat="2432.0127210884357" sync-position="73501" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="546885" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
+      <Region name="Rob guitar-6.80" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="73501" length="569625" position="49722065" beat="2432.0127210884357" sync-position="73501" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="546885" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="546891" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001030303465
@@ -40108,7 +40327,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Rob guitar-6.81" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="643126" length="160748" position="50291690" beat="2463.0127210884357" sync-position="643126" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="546894" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
+      <Region name="Rob guitar-6.81" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="643126" length="160748" position="50291690" beat="2463.0127210884357" sync-position="643126" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="546894" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="546900" interpolation-style="Exponential" state="Off">
             <events>0 1.0000003000000002
@@ -40146,45 +40365,82 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Rob guitar-6.82" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="803874" length="1640002" position="50452438" beat="2471.760911564626" sync-position="803874" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="546903" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
+      <Region name="Rob guitar-6.84" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="803874" length="574018" position="50452438" beat="2471.760911564626" sync-position="803874" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="612752" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
         <Envelope>
-          <AutomationList automation-id="envelope" id="546909" interpolation-style="Exponential" state="Off">
+          <AutomationList automation-id="envelope" id="612758" interpolation-style="Exponential" state="Off">
             <events>0 1.0000005760565061
-1612439 1.0000002000000001
-1640002 1.0000002000000001
+574018 1.0000005421827771
 </events>
           </AutomationList>
         </Envelope>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="546904" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="612753" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="546905" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="612754" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="546906" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="612755" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="546907" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="612756" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Rob guitar-6.83" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1534313" length="888940" position="52064877" beat="2559.5126938775511" sync-position="1534313" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="546912" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
+      <Region name="Rob guitar-6.85" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1377892" length="1065984" position="51026456" beat="2503" sync-position="1377892" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="612760" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="612766" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000005421827771
+1038421 1.0000002000000001
+1065984 1.0000002000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="612761" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="612762" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="612763" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="612764" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Rob guitar-6.83" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1534313" length="888940" position="52064877" beat="2559.5126938775511" sync-position="1534313" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="546912" type="audio" first-edit="nothing" source-0="210191" master-source-0="210191" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="546918" interpolation-style="Exponential" state="Off">
             <events>0 1.0000002994818369
@@ -40422,7 +40678,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="vocals-95.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="73500" length="294000" position="50236331" beat="2459.9999863945577" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="580633" type="audio" first-edit="nothing" source-0="580615" master-source-0="580615" channels="1">
+      <Region name="vocals-95.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="73500" length="294000" position="50236331" beat="2459.9999863945577" sync-position="73500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="580633" type="audio" first-edit="nothing" source-0="580615" master-source-0="580615" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="580638" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001000000001
@@ -40764,7 +41020,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="bg vocals-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="62571" length="1792389" position="51180902" beat="2511.4052108843534" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="581469" type="audio" first-edit="nothing" source-0="581451" master-source-0="581451" channels="1">
+      <Region name="bg vocals-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="62571" length="1792389" position="51180902" beat="2511.4052108843534" sync-position="62571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="581469" type="audio" first-edit="nothing" source-0="581451" master-source-0="581451" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="581474" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001000000001
@@ -40795,6 +41051,109 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
         </FadeOut>
         <InverseFadeOut>
           <AutomationList automation-id="fadeout" id="581473" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
+    <Playlist id="613021" name="tom key guitar" type="audio" orig-track-id="612976" pgroup-id="2024-08-31 23.54.40" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="tom key guitar-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1880560" position="49423237" beat="2415.7499727891159" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613199" type="audio" first-edit="nothing" source-0="613180" master-source-0="613180" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="613200" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="613201" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="613202" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="613203" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="tom key guitar-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1621594" position="49423237" beat="2415.7499727891159" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613237" type="audio" first-edit="nothing" source-0="613218" master-source-0="613218" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="613242" interpolation-style="Exponential" state="Off">
+            <events>0 1
+1621594 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="613238" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="613239" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="613240" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="613241" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
+    <Playlist id="613324" name="tom key sax" type="audio" orig-track-id="613279" pgroup-id="2024-09-01 00.15.21" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="tom key sax-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1091056" position="49427831" beat="2415.9999863945582" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="613537" type="audio" first-edit="nothing" source-0="613519" master-source-0="613519" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="613538" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="613539" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="613540" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="613541" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -47486,7 +47845,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <ExportFormat id="5a78349c-8a72-469f-8f65-8df8bee0677a"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="eq-drums-guitar-new-vocals"/>
+        <Field name="label" enabled="1" value="vocal-dubs"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
         <Field name="timespan" enabled="1"/>
@@ -47500,7 +47859,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <Window name="session-options-editor" visible="0" x-off="0" y-off="335" x-size="750" y-size="368"/>
       <Window name="speaker-config" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="about" visible="0" x-off="0" y-off="0" x-size="424" y-size="611"/>
-      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="671" y-size="503"/>
+      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="652" y-size="503"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="57" y-off="57" x-size="620" y-size="370"/>
       <Window name="audio-midi-setup" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -47541,6 +47900,7 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <Window name="RPM-447554" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-447689" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-227087" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-581174" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-447954" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-448005" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-949" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -47628,6 +47988,8 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <Window name="PM-227087-549763" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-227087-378841" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-227087-549833" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-581174-581344" visible="0" x-off="889" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="PM-581174-581344" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-447954-448443" visible="0" x-off="359" y-off="589" x-size="769" y-size="455" custom-ui="1"/>
       <Window name="PM-447954-448443" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-448005-448371" visible="0" x-off="359" y-off="589" x-size="769" y-size="455" custom-ui="1"/>
@@ -47656,9 +48018,8 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
       <Window name="PM-4820-36438" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-2696-2930" visible="0" x-off="454" y-off="0" x-size="800" y-size="434" custom-ui="1"/>
       <Window name="PM-2696-2930" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-581174" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-581174-581344" visible="0" x-off="703" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="PM-581174-581344" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-612976" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-613279" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 64" height="66" visible="1"/>
         <Object id="automation 68" height="66" visible="0"/>
@@ -50224,6 +50585,31 @@ Left that dist pedal on there to remind me to try it on a send bus.</Comment>
             <Object id="InlineDisplay" visible="1"/>
           </Object>
         </Object>
+        <Object id="strip 612822" visible="1">
+          <Object id="processor 612852">
+            <Object id="control 612826" visible="0"/>
+          </Object>
+        </Object>
+        <Object id="strip 612976" visible="1">
+          <Object id="processor 613006">
+            <Object id="control 612980" visible="0"/>
+          </Object>
+        </Object>
+        <Object id="rtav 612976" height="66" visible="1"/>
+        <Object id="automation 612980" height="66" visible="0"/>
+        <Object id="automation 612982" height="66" visible="0"/>
+        <Object id="automation 612976 12/0/0" height="66" visible="0"/>
+        <Object id="automation 612995" height="66" visible="0"/>
+        <Object id="strip 613279" visible="1">
+          <Object id="processor 613309">
+            <Object id="control 613283" visible="0"/>
+          </Object>
+        </Object>
+        <Object id="rtav 613279" height="66" visible="1"/>
+        <Object id="automation 613283" height="66" visible="0"/>
+        <Object id="automation 613285" height="66" visible="0"/>
+        <Object id="automation 613279 12/0/0" height="66" visible="0"/>
+        <Object id="automation 613298" height="66" visible="0"/>
       </GUIObjectState>
     </UI>
     <Videomonitor active="0"/>
