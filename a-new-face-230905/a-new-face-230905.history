@@ -192,8 +192,8 @@
     <StatefulDiffCommand obj-id="868261" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="868591"/>
           <Add id="868582"/>
+          <Add id="868591"/>
           <Remove id="868488"/>
         </Regions>
       </Changes>
@@ -244,24 +244,6 @@
       <Changes>
         <start from="a6703200000" to="a6762000000"/>
         <length from="a1106950400@a297504480000" to="a1048150400@a297563280000"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="868630" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1.0000001000000001
-a1106950400 1
-a1106950400 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="868629" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1.0000001946878216
-a1048147200 1
-a1048147200 1
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
@@ -288,24 +270,6 @@ a1048147200 1
       <Changes>
         <start from="a6762000000" to="a6791400000"/>
         <length from="a1048150400@a297563280000" to="a1018750400@a297592680000"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="868644" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1.0000001946878216
-a1048147200 1
-a1048147200 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="868643" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1.0000002892266284
-a1018745600 1
-a1018745600 1
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
