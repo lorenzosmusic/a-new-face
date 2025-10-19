@@ -104,9 +104,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1760589906" tv-usec="873353" name="New Playlist for track drums 2 track 1">
     <StatefulDiffCommand obj-id="1002150" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="sppon.1" to="meg white"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="1001965"/>
@@ -115,9 +113,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1760589906" tv-usec="884367" name="New Playlist for track drums 2 track 2">
     <StatefulDiffCommand obj-id="1002157" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="sppon.1" to="meg white"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="1001972"/>

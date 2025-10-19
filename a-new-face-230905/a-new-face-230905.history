@@ -1,123 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1760589051" tv-usec="257905" name="Switch Playlist for track drums 2 track 2">
-    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001972"/>
-      <Route version="7003" audio-playlist="998628"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589117" tv-usec="668067" name="Switch Playlist for track drums 2 track 1">
-    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="998560"/>
-      <Route version="7003" audio-playlist="1001042"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589117" tv-usec="682143" name="Switch Playlist for track drums 2 track 2">
-    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="998628"/>
-      <Route version="7003" audio-playlist="1001049"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589172" tv-usec="996808" name="Switch Playlist for track drums 2 track 1">
-    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001042"/>
-      <Route version="7003" audio-playlist="1001131"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589173" tv-usec="11368" name="Switch Playlist for track drums 2 track 2">
-    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001049"/>
-      <Route version="7003" audio-playlist="1001138"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589212" tv-usec="598477" name="Switch Playlist for track drums 2 track 1">
-    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001131"/>
-      <Route version="7003" audio-playlist="1001295"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589212" tv-usec="612487" name="Switch Playlist for track drums 2 track 2">
-    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001138"/>
-      <Route version="7003" audio-playlist="1001302"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589279" tv-usec="274553" name="Switch Playlist for track drums 2 track 1">
-    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001295"/>
-      <Route version="7003" audio-playlist="1001384"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589279" tv-usec="303262" name="Switch Playlist for track drums 2 track 2">
-    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001302"/>
-      <Route version="7003" audio-playlist="1001391"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589400" tv-usec="366496" name="Switch Playlist for track drums 2 track 1">
-    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001384"/>
-      <Route version="7003" audio-playlist="1001623"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589400" tv-usec="401476" name="Switch Playlist for track drums 2 track 2">
-    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001391"/>
-      <Route version="7003" audio-playlist="1001630"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589464" tv-usec="483803" name="Switch Playlist for track drums 2 track 1">
-    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001623"/>
-      <Route version="7003" audio-playlist="1001712"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589464" tv-usec="498337" name="Switch Playlist for track drums 2 track 2">
-    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001630"/>
-      <Route version="7003" audio-playlist="1001719"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589563" tv-usec="555186" name="Switch Playlist for track drums 2 track 1">
-    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001712"/>
-      <Route version="7003" audio-playlist="1001801"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589563" tv-usec="571304" name="Switch Playlist for track drums 2 track 2">
-    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001719"/>
-      <Route version="7003" audio-playlist="1001808"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589567" tv-usec="932007" name="Switch Playlist for track drums 2 track 1">
-    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001801"/>
-      <Route version="7003" audio-playlist="1001965"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589567" tv-usec="946051" name="Switch Playlist for track drums 2 track 2">
-    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001808"/>
-      <Route version="7003" audio-playlist="1001972"/>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1760589906" tv-usec="873353" name="New Playlist for track drums 2 track 1">
-    <StatefulDiffCommand obj-id="1002150" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="sppon.1" to="meg white"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="1001965"/>
-      <Route version="7003" audio-playlist="1002150"/>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1760589906" tv-usec="884367" name="New Playlist for track drums 2 track 2">
     <StatefulDiffCommand obj-id="1002157" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="sppon.1" to="meg white"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="1001972"/>
@@ -139,5 +24,113 @@
         </Regions>
       </Changes>
     </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852476" tv-usec="597173" name="Switch Playlist for track drums 2 track 1">
+    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="998560"/>
+      <Route version="7003" audio-playlist="1001042"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852476" tv-usec="618236" name="Switch Playlist for track drums 2 track 2">
+    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="998628"/>
+      <Route version="7003" audio-playlist="1001049"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852486" tv-usec="686352" name="Switch Playlist for track drums 2 track 1">
+    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001042"/>
+      <Route version="7003" audio-playlist="1001131"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852486" tv-usec="707394" name="Switch Playlist for track drums 2 track 2">
+    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001049"/>
+      <Route version="7003" audio-playlist="1001138"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852496" tv-usec="775436" name="Switch Playlist for track drums 2 track 1">
+    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001131"/>
+      <Route version="7003" audio-playlist="1001295"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852496" tv-usec="796827" name="Switch Playlist for track drums 2 track 2">
+    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001138"/>
+      <Route version="7003" audio-playlist="1001302"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852511" tv-usec="918530" name="Switch Playlist for track drums 2 track 1">
+    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001295"/>
+      <Route version="7003" audio-playlist="1001384"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852511" tv-usec="948004" name="Switch Playlist for track drums 2 track 2">
+    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001302"/>
+      <Route version="7003" audio-playlist="1001391"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852525" tv-usec="99354" name="Switch Playlist for track drums 2 track 1">
+    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001384"/>
+      <Route version="7003" audio-playlist="1001623"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852525" tv-usec="131909" name="Switch Playlist for track drums 2 track 2">
+    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001391"/>
+      <Route version="7003" audio-playlist="1001630"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852541" tv-usec="814082" name="Switch Playlist for track drums 2 track 1">
+    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001623"/>
+      <Route version="7003" audio-playlist="1001712"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852541" tv-usec="833114" name="Switch Playlist for track drums 2 track 2">
+    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001630"/>
+      <Route version="7003" audio-playlist="1001719"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852552" tv-usec="877128" name="Switch Playlist for track drums 2 track 1">
+    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001712"/>
+      <Route version="7003" audio-playlist="1001801"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852552" tv-usec="893575" name="Switch Playlist for track drums 2 track 2">
+    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001719"/>
+      <Route version="7003" audio-playlist="1001808"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852561" tv-usec="539245" name="Switch Playlist for track drums 2 track 1">
+    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001801"/>
+      <Route version="7003" audio-playlist="1001965"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852561" tv-usec="558996" name="Switch Playlist for track drums 2 track 2">
+    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001808"/>
+      <Route version="7003" audio-playlist="1001972"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852577" tv-usec="281394" name="Switch Playlist for track drums 2 track 1">
+    <MementoCommand obj-id="998498" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001965"/>
+      <Route version="7003" audio-playlist="1002150"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1760852577" tv-usec="295534" name="Switch Playlist for track drums 2 track 2">
+    <MementoCommand obj-id="998566" type-name="ARDOUR::AudioTrack">
+      <Route version="7003" audio-playlist="1001972"/>
+      <Route version="7003" audio-playlist="1002157"/>
+    </MementoCommand>
   </UndoTransaction>
 </UndoHistory>
