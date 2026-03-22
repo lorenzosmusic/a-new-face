@@ -2,15 +2,15 @@
 <instant>
   <LastUsedSnapshot name="a-new-face-230905"/>
   <Main x="0" y="30" w="1920" h="1018" current-tab="editor"/>
-  <Editor id="12" edit-horizontal-pane-pos="0.8917127251625061" notebook-shrunk="0" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Wide" zoom-focus="ZoomFocusMouse" zoom="6148" grid-type="GridTypeBeatDiv8" snap-mode="SnapMagnetic" internal-grid-type="GridTypeBeat" internal-snap-mode="SnapNormal" pre-internal-grid-type="GridTypeBeatDiv8" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" marker-click-behavior="MarkerClickSelectOnly" draw-length="GridTypeNone" draw-velocity="-1" draw-channel="-1" playhead="64823325" left-frame="62471856" y-origin="1367" maximised="0" follow-playhead="1" stationary-playhead="0" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="1" show-editor-list="1" editor-list-page="0" show-marker-lines="0" show-touched-automation="0" nudge-clock-value="a1411200000@a0">
+  <Editor id="12" edit-horizontal-pane-pos="0.87071824073791504" notebook-shrunk="0" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Wide" zoom-focus="ZoomFocusMouse" zoom="6480" grid-type="GridTypeBeatDiv8" snap-mode="SnapMagnetic" internal-grid-type="GridTypeBeat" internal-snap-mode="SnapNormal" pre-internal-grid-type="GridTypeBeatDiv8" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" marker-click-behavior="MarkerClickSelectOnly" draw-length="GridTypeNone" draw-velocity="-1" draw-channel="-1" playhead="62691825" left-frame="62299484" y-origin="1443" maximised="0" follow-playhead="1" stationary-playhead="0" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="1" show-editor-list="1" editor-list-page="0" show-marker-lines="0" show-touched-automation="0" nudge-clock-value="a1411200000@a0">
     <Window name="Editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
     <Buttons>
       <Press/>
       <Release/>
     </Buttons>
     <Selection>
-      <StripableView id="168575"/>
-      <Marker id="284" start="1"/>
+      <StripableView id="581174"/>
+      <Marker id="998489" start="1"/>
     </Selection>
     <EditorLocations clock-mode="BBT"/>
   </Editor>
@@ -26,7 +26,7 @@
   <Recorder recorder-vpane-pos="0.75">
     <Window name="Recorder" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
   </Recorder>
-  <TriggerPage triggerpage-hpane-pos="0.75" triggerpage-sidebar-page="0">
+  <TriggerPage triggerpage-hpane-pos="0.61743217706680298" triggerpage-sidebar-page="0">
     <Window name="Cues" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
   </TriggerPage>
   <ClockModes>
